@@ -1,0 +1,50 @@
+body
+{
+  background-color: #5f7d95;
+  text-align: center;
+}
+
+table
+{
+  margin: 50px auto;
+  border: 2px solid;
+}
+
+th,td
+{
+  padding:15px;
+  text-align:left;
+  font-size: 20px;
+}
+
+tr
+{
+  background-color: white;
+}
+
+th
+{
+  background-color: #615550;
+  color: white;
+}
+
+h1
+{
+  font-size: 50px;
+
+  color: white;
+}
+
+.container-fluid
+{
+  width: 60%;
+  padding-top: 20px;
+}
+
+.customers-border
+{
+  border: 2px solid;
+  margin: 50px 300px;
+  border-radius: 20px;
+  color: white;
+}

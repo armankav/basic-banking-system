@@ -1,0 +1,74 @@
+body
+{
+  background-color: #5f7d95;
+
+
+}
+
+.container-fluid
+{
+ padding: 3% 10% 3%;
+  width:70%;
+}
+
+input,button
+{
+  font-size: 20px;
+  display:block;
+  padding: 10px;
+  margin: 20px 2px;
+}
+
+.sendmoney
+{
+  margin: 0 580px;
+  color: black;
+  background: white;
+  padding: 35px;
+  border: 2px solid;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+  }
+
+  h1
+  {
+    padding: 10px 0;
+  }
+
+  h2
+  {
+    color: #5C5C5C;
+    font-size: 20px;
+
+
+  }
+
+  p
+{
+  font-size: 25px;
+  color: green;
+}
+
+.pone
+{
+  font-size: 25px;
+  color: red;
+}
+
+.ptwo
+{
+  font-size: 25px;
+  color: blue;
+}
+
+.subm
+{
+  border: 2px solid;
+  margin: 0 610px;
+  background-color: #dcdcdc;
+  border-radius: 20px;
+  padding-top: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}

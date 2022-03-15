@@ -1,0 +1,61 @@
+body
+{
+  margin: 0;
+  background-color: #5f7d95;
+  text-align: center;
+}
+
+/* #cce7ff */
+
+input,textarea,button
+{
+
+  display: block;
+  margin: 20px auto;
+  font-size: 25px;
+  border-radius: 20px;
+  border: 2px solid;
+  padding: 10px;
+
+}
+
+.contact
+{
+  padding: 10px 0 10px;
+  border-radius: 10px;
+}
+
+.contact-div
+{
+  border: 2px solid;
+  margin:30px 550px;
+  border-radius: 20px;
+  color:white;
+}
+
+p
+{
+  font-size: 25px;
+  color: green;
+}
+
+.subm
+{
+  border: 2px solid;
+  margin: 0 610px;
+  background-color: #dcdcdc;
+  border-radius: 20px;
+  padding-top: 10px;
+}
+.container-fluid
+{
+
+  padding: 3% 23% 3%;
+}
+
+.nav-text
+{
+
+  font-size: 15px;
+
+}
